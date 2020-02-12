@@ -1,4 +1,5 @@
 resolusi
 -menjadi front-end developer
+.UI/UX designer
 -jenjang selanjut nya mengembangkan Aplikasi berbasis mobile Android
 -mempelajari pemrograman swift
